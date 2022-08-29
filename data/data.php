@@ -1,7 +1,5 @@
 <?php
 
-// Force data update
-
 return [
 	'ac' => [
 		'suffix' => 'ac',
