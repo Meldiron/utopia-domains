@@ -58305,6 +58305,18 @@ return [
 		'comments' => [
 		],
 	],
+	'wixstudio.io' => [
+		'suffix' => 'wixstudio.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wix.run' => [
+		'suffix' => 'wix.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'half.host' => [
 		'suffix' => 'half.host',
 		'type' => 'PRIVATE',
