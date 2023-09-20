@@ -32414,12 +32414,6 @@ return [
 		'comments' => [
 		],
 	],
-	'k12.de.us' => [
-		'suffix' => 'k12.de.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'k12.fl.us' => [
 		'suffix' => 'k12.fl.us',
 		'type' => 'ICANN',
