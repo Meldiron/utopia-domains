@@ -52426,7 +52426,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Enalean SAS: https://www.enalean.com',
-			'Submitted by Thomas Cottier <thomas.cottier@enalean.com>',
+			'Submitted by Enalean Security Team <security@enalean.com>',
 		],
 	],
 	'tuleap-partners.com' => [
@@ -59045,6 +59045,12 @@ return [
 	],
 	'xmit.dev' => [
 		'suffix' => 'xmit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'madethis.site' => [
+		'suffix' => 'madethis.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
