@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-05-31T15:16:08Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-06-13T15:15:16Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -40144,14 +40144,6 @@ return [
 		'comments' => [
 			'nagoya : GMO Registry, Inc.',
 			'https://www.iana.org/domains/root/db/nagoya.html',
-		],
-	],
-	'natura' => [
-		'suffix' => 'natura',
-		'type' => 'ICANN',
-		'comments' => [
-			'natura : NATURA COSMÉTICOS S.A.',
-			'https://www.iana.org/domains/root/db/natura.html',
 		],
 	],
 	'navy' => [
@@ -60610,6 +60602,14 @@ return [
 		'suffix' => 'pp.ua',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'as.sh.cn' => [
+		'suffix' => 'as.sh.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Shanghai Accounting Society : https://www.sasf.org.cn',
+			'Submitted by Information Administration <info@sasf.org.cn>',
 		],
 	],
 	'sheezy.games' => [
