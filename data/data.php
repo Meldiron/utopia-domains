@@ -58756,14 +58756,6 @@ return [
 		'comments' => [
 		],
 	],
-	'cya.gg' => [
-		'suffix' => 'cya.gg',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Octopodal Solutions, LLC. : https://ulterius.io/',
-			'Submitted by Andrew Sampson <andrew@ulterius.io>',
-		],
-	],
 	'omg.lol' => [
 		'suffix' => 'omg.lol',
 		'type' => 'PRIVATE',
@@ -58902,14 +58894,6 @@ return [
 		'suffix' => '123minsida.se',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'nid.io' => [
-		'suffix' => 'nid.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'One Fold Media : http://www.onefoldmedia.com/',
-			'Submitted by Eddie Jones <eddie@onefoldmedia.com>',
 		],
 	],
 	'is-cool.dev' => [
