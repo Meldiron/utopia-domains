@@ -56080,6 +56080,14 @@ return [
 			'Submitted by William Harrison <admin@m.is-a.dev>',
 		],
 	],
+	'is-a-good.dev' => [
+		'suffix' => 'is-a-good.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'is-a-good.dev : https://is-a-good.dev',
+			'Submitted by William Harrison <webmaster@is-a-good.dev>',
+		],
+	],
 	'iservschule.de' => [
 		'suffix' => 'iservschule.de',
 		'type' => 'PRIVATE',
@@ -56956,14 +56964,6 @@ return [
 		'comments' => [
 			'Localcert : https://localcert.dev',
 			'Submitted by Lann Martin <security@localcert.dev>',
-		],
-	],
-	'localzone.xyz' => [
-		'suffix' => 'localzone.xyz',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'localzone.xyz',
-			'Submitted by Kenny Niehage <hello@yahe.sh>',
 		],
 	],
 	'loginline.app' => [
