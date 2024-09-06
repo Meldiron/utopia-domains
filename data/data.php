@@ -54880,12 +54880,6 @@ return [
 		'comments' => [
 		],
 	],
-	'publishproxy.com' => [
-		'suffix' => 'publishproxy.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'withgoogle.com' => [
 		'suffix' => 'withgoogle.com',
 		'type' => 'PRIVATE',
@@ -56050,20 +56044,20 @@ return [
 			'Submitted by Ali Soizi <info@nic.ir.md>',
 		],
 	],
-	'is-a.dev' => [
-		'suffix' => 'is-a.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'is-a.dev : https://www.is-a.dev',
-			'Submitted by William Harrison <admin@m.is-a.dev>',
-		],
-	],
 	'is-a-good.dev' => [
 		'suffix' => 'is-a-good.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'is-a-good.dev : https://is-a-good.dev',
 			'Submitted by William Harrison <webmaster@is-a-good.dev>',
+		],
+	],
+	'is-a.dev' => [
+		'suffix' => 'is-a.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'is-a.dev : https://www.is-a.dev',
+			'Submitted by William Harrison <admin@m.is-a.dev>',
 		],
 	],
 	'iservschule.de' => [
@@ -57248,20 +57242,6 @@ return [
 			'Submitted by Ilya Zaretskiy <zaretskiy@corp.mail.ru>',
 		],
 	],
-	'mayfirst.info' => [
-		'suffix' => 'mayfirst.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'May First - People Link : https://mayfirst.org/',
-			'Submitted by Jamie McClelland <info@mayfirst.org>',
-		],
-	],
-	'mayfirst.org' => [
-		'suffix' => 'mayfirst.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'matlab.cloud' => [
 		'suffix' => 'matlab.cloud',
 		'type' => 'PRIVATE',
@@ -57284,6 +57264,20 @@ return [
 	],
 	'polyspace.com' => [
 		'suffix' => 'polyspace.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mayfirst.info' => [
+		'suffix' => 'mayfirst.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'May First - People Link : https://mayfirst.org/',
+			'Submitted by Jamie McClelland <info@mayfirst.org>',
+		],
+	],
+	'mayfirst.org' => [
+		'suffix' => 'mayfirst.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59931,6 +59925,14 @@ return [
 		'comments' => [
 			'Russian Academy of Sciences',
 			'Submitted by Tech Support <support@rasnet.ru>',
+		],
+	],
+	'nyat.app' => [
+		'suffix' => 'nyat.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Sakura Frp : https://www.natfrp.com',
+			'Submitted by Bobo Liu <support@natfrp.cloud>',
 		],
 	],
 	'180r.com' => [
