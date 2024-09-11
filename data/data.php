@@ -58438,12 +58438,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ddnslive.com' => [
-		'suffix' => 'ddnslive.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'myiphost.com' => [
 		'suffix' => 'myiphost.com',
 		'type' => 'PRIVATE',
@@ -58530,18 +58524,6 @@ return [
 	],
 	'freeddns.us' => [
 		'suffix' => 'freeddns.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'crafting.xyz' => [
-		'suffix' => 'crafting.xyz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'zapto.xyz' => [
-		'suffix' => 'zapto.xyz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
