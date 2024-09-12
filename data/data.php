@@ -55530,6 +55530,36 @@ return [
 		'comments' => [
 		],
 	],
+	'co.biz.ng' => [
+		'suffix' => 'co.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dl.biz.ng' => [
+		'suffix' => 'dl.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'go.biz.ng' => [
+		'suffix' => 'go.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'lg.biz.ng' => [
+		'suffix' => 'lg.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'on.biz.ng' => [
+		'suffix' => 'on.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'col.ng' => [
 		'suffix' => 'col.ng',
 		'type' => 'PRIVATE',
@@ -55562,37 +55592,6 @@ return [
 	],
 	'plc.ng' => [
 		'suffix' => 'plc.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'co.biz.ng' => [
-		'suffix' => 'co.biz.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Reserved Third Level Subdomains for BIZ.NG',
-		],
-	],
-	'dl.biz.ng' => [
-		'suffix' => 'dl.biz.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'go.biz.ng' => [
-		'suffix' => 'go.biz.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'lg.biz.ng' => [
-		'suffix' => 'lg.biz.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'on.biz.ng' => [
-		'suffix' => 'on.biz.ng',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56014,6 +56013,14 @@ return [
 		'comments' => [
 			'iopsys software solutions AB : https://iopsys.eu/',
 			'Submitted by Roman Azarenko <roman.azarenko@iopsys.eu>',
+		],
+	],
+	'*.dweb.link' => [
+		'suffix' => '*.dweb.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'IPFS Project : https://ipfs.tech/',
+			'Submitted by Interplanetary Shipyard <domains@ipshipyard.com>',
 		],
 	],
 	'ipifony.net' => [
@@ -56741,7 +56748,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'libp2p project : https://libp2p.io',
-			'Submitted by Interplanetary Shipyard <psl@ipshipyard.com>',
+			'Submitted by Interplanetary Shipyard <domains@ipshipyard.com>',
 		],
 	],
 	'runcontainers.dev' => [
@@ -59198,14 +59205,6 @@ return [
 		'comments' => [
 			'priv.at : http://www.nic.priv.at/',
 			'Submitted by registry <lendl@nic.at>',
-		],
-	],
-	'*.dweb.link' => [
-		'suffix' => '*.dweb.link',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Protocol Labs : https://protocol.ai/',
-			'Submitted by Michael Burns <noc@protocol.ai>',
 		],
 	],
 	'protonet.io' => [
@@ -62060,11 +62059,23 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Vercel, Inc : https://vercel.com/',
-			'Submitted by Connor Davis <security@vercel.com>',
+			'Submitted by Max Leiter <security@vercel.com>',
+		],
+	],
+	'v0.build' => [
+		'suffix' => 'v0.build',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'vercel.dev' => [
 		'suffix' => 'vercel.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'vusercontent.net' => [
+		'suffix' => 'vusercontent.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
