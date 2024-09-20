@@ -49165,14 +49165,6 @@ return [
 			'Submitted by Antonio Lain <antlai@cafjs.com>',
 		],
 	],
-	'mycd.eu' => [
-		'suffix' => 'mycd.eu',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'callidomus : https://www.callidomus.com/',
-			'Submitted by Marcus Popp <admin@callidomus.com>',
-		],
-	],
 	'canva-apps.cn' => [
 		'suffix' => 'canva-apps.cn',
 		'type' => 'PRIVATE',
@@ -55337,6 +55329,38 @@ return [
 		'comments' => [
 		],
 	],
+	'wdh.app' => [
+		'suffix' => 'wdh.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Harrison Network : https://hrsn.net',
+			'Submitted by William Harrison <psl@hrsn.net>',
+		],
+	],
+	'preview.wdh.app' => [
+		'suffix' => 'preview.wdh.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hrsn.dev' => [
+		'suffix' => 'hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	't.hrsn.dev' => [
+		'suffix' => 't.hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	't.hrsn.net' => [
+		'suffix' => 't.hrsn.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'hashbang.sh' => [
 		'suffix' => 'hashbang.sh',
 		'type' => 'PRIVATE',
@@ -56611,14 +56635,6 @@ return [
 		'suffix' => 'khplay.nl',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'ktistory.com' => [
-		'suffix' => 'ktistory.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Kakao : https://www.kakaocorp.com/',
-			'Submitted by JaeYoong Lee <cec@kakaocorp.com>',
 		],
 	],
 	'kapsi.fi' => [
@@ -61263,20 +61279,6 @@ return [
 		'comments' => [
 		],
 	],
-	'*.sensiosite.cloud' => [
-		'suffix' => '*.sensiosite.cloud',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Symfony, SAS : https://symfony.com/',
-			'Submitted by Fabien Potencier <fabien@symfony.com>',
-		],
-	],
-	'*.s5y.io' => [
-		'suffix' => '*.s5y.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'syncloud.it' => [
 		'suffix' => 'syncloud.it',
 		'type' => 'PRIVATE',
@@ -62276,32 +62278,6 @@ return [
 	],
 	'wmflabs.org' => [
 		'suffix' => 'wmflabs.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'wdh.app' => [
-		'suffix' => 'wdh.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'William Harrison : https://wdharrison.com',
-			'Submitted by William Harrison <publicsuffix@wdharrison.com>',
-		],
-	],
-	'preview.wdh.app' => [
-		'suffix' => 'preview.wdh.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	't.hrsn.dev' => [
-		'suffix' => 't.hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	't.hrsn.net' => [
-		'suffix' => 't.hrsn.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
