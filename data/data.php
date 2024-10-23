@@ -49550,6 +49550,12 @@ return [
 		'comments' => [
 		],
 	],
+	'cloud-ip.biz' => [
+		'suffix' => 'cloud-ip.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cloudns.biz' => [
 		'suffix' => 'cloudns.biz',
 		'type' => 'PRIVATE',
@@ -49630,6 +49636,12 @@ return [
 	],
 	'cloudns.org' => [
 		'suffix' => 'cloudns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ip-dynamic.org' => [
+		'suffix' => 'ip-dynamic.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55310,20 +55322,6 @@ return [
 		'comments' => [
 			'Häkkinen.fi',
 			'Submitted by Eero Häkkinen <Eero+psl@Häkkinen.fi>',
-		],
-	],
-	'hs.run' => [
-		'suffix' => 'hs.run',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Handshake : https://handshake.org',
-			'Submitted by Mike Damm <md@md.vc>',
-		],
-	],
-	'hs.zone' => [
-		'suffix' => 'hs.zone',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'wdh.app' => [
