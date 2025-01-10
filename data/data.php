@@ -56236,6 +56236,20 @@ return [
 		'comments' => [
 		],
 	],
+	'liara.run' => [
+		'suffix' => 'liara.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Liara : https://liara.ir',
+			'Submitted by Amirhossein Badinloo <info@liara.ir>',
+		],
+	],
+	'iran.liara.run' => [
+		'suffix' => 'iran.liara.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'libp2p.direct' => [
 		'suffix' => 'libp2p.direct',
 		'type' => 'PRIVATE',
