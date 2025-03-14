@@ -59021,6 +59021,20 @@ return [
 			'Submitted by registry <lendl@nic.at>',
 		],
 	],
+	'c01.kr' => [
+		'suffix' => 'c01.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PROJECT ELIV : https://eliv.kr/',
+			'Submitted by ELIV Team <team@eliv.kr>',
+		],
+	],
+	'eliv-dns.kr' => [
+		'suffix' => 'eliv-dns.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'protonet.io' => [
 		'suffix' => 'protonet.io',
 		'type' => 'PRIVATE',
