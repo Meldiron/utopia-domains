@@ -55733,12 +55733,24 @@ return [
 			'Submitted by Roman Azarenko <roman.azarenko@iopsys.eu>',
 		],
 	],
-	'*.dweb.link' => [
-		'suffix' => '*.dweb.link',
+	'*.inbrowser.dev' => [
+		'suffix' => '*.inbrowser.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'IPFS Project : https://ipfs.tech/',
 			'Submitted by Interplanetary Shipyard <domains@ipshipyard.com>',
+		],
+	],
+	'*.dweb.link' => [
+		'suffix' => '*.dweb.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.inbrowser.link' => [
+		'suffix' => '*.inbrowser.link',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'ipifony.net' => [
