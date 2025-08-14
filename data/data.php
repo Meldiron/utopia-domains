@@ -60056,6 +60056,20 @@ return [
 			'Submitted by Vasyl Tsalko <vtsalko@qualityunit.com>',
 		],
 	],
+	'*.qualyhqpartner.com' => [
+		'suffix' => '*.qualyhqpartner.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Qualy : https://qualyhq.com',
+			'Submitted by Raphael Arias <security@qualyhq.com>',
+		],
+	],
+	'*.qualyhqportal.com' => [
+		'suffix' => '*.qualyhqportal.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'qbuser.com' => [
 		'suffix' => 'qbuser.com',
 		'type' => 'PRIVATE',
@@ -62284,6 +62298,20 @@ return [
 		'comments' => [
 			'TAIFUN Software AG : http://taifun-software.de',
 			'Submitted by Bjoern Henke <dev-server@taifun-software.de>',
+		],
+	],
+	'erp.dev' => [
+		'suffix' => 'erp.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tailor Inc. : https://www.tailor.tech',
+			'Submitted by Ryuzo Yamamoto <psl-maintainers@tailor.tech>',
+		],
+	],
+	'web.erp.dev' => [
+		'suffix' => 'web.erp.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'ts.net' => [
