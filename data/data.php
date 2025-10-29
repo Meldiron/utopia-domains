@@ -33889,6 +33889,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			've : https://registro.nic.ve/',
+			'https://nic.ve/site/user-agreement -> under "III. Clasificación de Nombres de Dominio"',
 			'Submitted by registry nic@nic.ve and nicve@conatel.gob.ve',
 		],
 	],
@@ -33948,6 +33949,12 @@ return [
 	],
 	'gov.ve' => [
 		'suffix' => 'gov.ve',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ia.ve' => [
+		'suffix' => 'ia.ve',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -50681,12 +50688,18 @@ return [
 			'Submitted by Kedarnath Waikar <security@cloudera.com>',
 		],
 	],
-	'cf-ipfs.com' => [
-		'suffix' => 'cf-ipfs.com',
+	'cloudflare.app' => [
+		'suffix' => 'cloudflare.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Cloudflare, Inc. : https://www.cloudflare.com/',
 			'Submitted by Cloudflare Team <publicsuffixlist@cloudflare.com>',
+		],
+	],
+	'cf-ipfs.com' => [
+		'suffix' => 'cf-ipfs.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'cloudflare-ipfs.com' => [
@@ -54935,6 +54948,14 @@ return [
 		'comments' => [
 			'GignoSystemJapan : http://gsj.bz',
 			'Submitted by GignoSystemJapan <kakutou-ec@gsj.bz>',
+		],
+	],
+	'gitbook.io' => [
+		'suffix' => 'gitbook.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'GitBook Inc. : https://www.gitbook.com/',
+			'Submitted by Samy Pesse <devs@gitbook.com>',
 		],
 	],
 	'github.app' => [
@@ -62140,6 +62161,14 @@ return [
 			'Submitted by Jacob Lee <jacob@stdlib.com>',
 		],
 	],
+	'statichost.page' => [
+		'suffix' => 'statichost.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'statichost.eu : https://www.statichost.eu',
+			'Submitted by Eric Selin <admin@statichost.eu>',
+		],
+	],
 	'feedback.ac' => [
 		'suffix' => 'feedback.ac',
 		'type' => 'PRIVATE',
@@ -62590,7 +62619,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'team.blue : https://team.blue',
-			'Submitted by Cedric Dubois <cedric.dubois@team.blue>',
+			'Submitted by Cedric Dubois <psl-sh@team.blue>',
+		],
+	],
+	'directwp.eu' => [
+		'suffix' => 'directwp.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'edugit.io' => [
