@@ -63384,6 +63384,14 @@ return [
 		'comments' => [
 		],
 	],
+	'tunnelmole.net' => [
+		'suffix' => 'tunnelmole.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tunnelmole: https://tunnelmole.com',
+			'Submitted by Robbie Cahill <support@tunnelmole.com>',
+		],
+	],
 	'tuxfamily.org' => [
 		'suffix' => 'tuxfamily.org',
 		'type' => 'PRIVATE',
