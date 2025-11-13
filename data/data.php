@@ -51850,6 +51850,14 @@ return [
 			'Submitted by Calvin Browne <calvin@dns.business>',
 		],
 	],
+	'de5.net' => [
+		'suffix' => 'de5.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'DNSHE : https://de5.net',
+			'Submitted by DNSHE Team <support@dnshe.com>',
+		],
+	],
 	'dnshome.de' => [
 		'suffix' => 'dnshome.de',
 		'type' => 'PRIVATE',
