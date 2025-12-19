@@ -6168,6 +6168,26 @@ return [
 		'comments' => [
 		],
 	],
+	'onhercules.app' => [
+		'suffix' => 'onhercules.app',
+		'type' => 'ICANN',
+		'comments' => [
+			'Hercules : https://hercules.app',
+			'Submitted by Brendan Falk <security@hercules.app>',
+		],
+	],
+	'hercules-app.com' => [
+		'suffix' => 'hercules-app.com',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hercules-dev.com' => [
+		'suffix' => 'hercules-dev.com',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'hk' => [
 		'suffix' => 'hk',
 		'type' => 'ICANN',
@@ -51883,12 +51903,30 @@ return [
 			'Submitted by Calvin Browne <calvin@dns.business>',
 		],
 	],
+	'ccwu.cc' => [
+		'suffix' => 'ccwu.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'DNSHE : https://www.dnshe.com',
+			'Submitted by DNSHE Team <support@dnshe.com>',
+		],
+	],
+	'cc.cd' => [
+		'suffix' => 'cc.cd',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us.ci' => [
+		'suffix' => 'us.ci',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'de5.net' => [
 		'suffix' => 'de5.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'DNSHE : https://de5.net',
-			'Submitted by DNSHE Team <support@dnshe.com>',
 		],
 	],
 	'dnshome.de' => [
@@ -53880,14 +53918,6 @@ return [
 		'comments' => [
 		],
 	],
-	'en-root.fr' => [
-		'suffix' => 'en-root.fr',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'En root‽ : https://en-root.org',
-			'Submitted by Emmanuel Raviart <emmanuel@raviart.com>',
-		],
-	],
 	'mytuleap.com' => [
 		'suffix' => 'mytuleap.com',
 		'type' => 'PRIVATE',
@@ -55053,22 +55083,16 @@ return [
 			'Submitted by Anton Emelyanov <anton@flutterflow.io>',
 		],
 	],
-	'fly.dev' => [
-		'suffix' => 'fly.dev',
+	'sprites.app' => [
+		'suffix' => 'sprites.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'fly.io : https://fly.io',
-			'Submitted by Kurt Mackey <kurt@fly.io>',
+			'Submitted by Kurt Mackey <ops@fly.io>',
 		],
 	],
-	'shw.io' => [
-		'suffix' => 'shw.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'edgeapp.net' => [
-		'suffix' => 'edgeapp.net',
+	'fly.dev' => [
+		'suffix' => 'fly.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58524,6 +58548,20 @@ return [
 			'Submitted by Damien Tournoud <dtournoud@magento.cloud>',
 		],
 	],
+	'magicpatterns.app' => [
+		'suffix' => 'magicpatterns.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Magic Patterns : https://www.magicpatterns.com',
+			'Submitted by Teddy Ni <security@magicpatterns.com>',
+		],
+	],
+	'magicpatternsapp.com' => [
+		'suffix' => 'magicpatternsapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'hb.cldmail.ru' => [
 		'suffix' => 'hb.cldmail.ru',
 		'type' => 'PRIVATE',
@@ -60564,20 +60602,6 @@ return [
 		'comments' => [
 		],
 	],
-	'platter-app.dev' => [
-		'suffix' => 'platter-app.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Platter : https://platter.dev',
-			'Submitted by Patrick Flor <patrick@platter.dev>',
-		],
-	],
-	'platterp.us' => [
-		'suffix' => 'platterp.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'pley.games' => [
 		'suffix' => 'pley.games',
 		'type' => 'PRIVATE',
@@ -60698,6 +60722,14 @@ return [
 		'comments' => [
 			'Protonet GmbH : http://protonet.io',
 			'Submitted by Martin Meier <admin@protonet.io>',
+		],
+	],
+	'platter-app.dev' => [
+		'suffix' => 'platter-app.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PSL Sandbox : https://github.com/groundcat/PSL-Sandbox',
+			'Submitted by groundcat <psl-sandbox@alumni.upenn.edu>',
 		],
 	],
 	'e.id' => [
@@ -62846,14 +62878,6 @@ return [
 		'comments' => [
 			'Storebase : https://www.storebase.io',
 			'Submitted by Tony Schirmer <tony@storebase.io>',
-		],
-	],
-	'storipress.app' => [
-		'suffix' => 'storipress.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Storipress : https://storipress.com',
-			'Submitted by Benno Liu <benno@storipress.com>',
 		],
 	],
 	'storj.farm' => [
