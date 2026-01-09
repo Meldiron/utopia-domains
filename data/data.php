@@ -51808,6 +51808,20 @@ return [
 		'comments' => [
 		],
 	],
+	'deuxfleurs.eu' => [
+		'suffix' => 'deuxfleurs.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Deuxfleurs : https://deuxfleurs.fr',
+			'Submitted by Aeddis Desauw <ca@deuxfleurs.fr>',
+		],
+	],
+	'deuxfleurs.page' => [
+		'suffix' => 'deuxfleurs.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.at.ply.gg' => [
 		'suffix' => '*.at.ply.gg',
 		'type' => 'PRIVATE',
