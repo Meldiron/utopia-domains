@@ -35609,7 +35609,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:51:43Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-10T15:53:10Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37091,7 +37091,7 @@ return [
 		'suffix' => 'circle',
 		'type' => 'ICANN',
 		'comments' => [
-			'circle : Amazon Registry Services, Inc.',
+			'circle : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/circle.html',
 		],
 	],
@@ -38795,7 +38795,7 @@ return [
 		'suffix' => 'got',
 		'type' => 'ICANN',
 		'comments' => [
-			'got : Amazon Registry Services, Inc.',
+			'got : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/got.html',
 		],
 	],
@@ -39539,7 +39539,7 @@ return [
 		'suffix' => 'jot',
 		'type' => 'ICANN',
 		'comments' => [
-			'jot : Amazon Registry Services, Inc.',
+			'jot : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/jot.html',
 		],
 	],
