@@ -62379,6 +62379,14 @@ return [
 			'Submitted by Charly Coste <changaco@changaco.oy.lc>',
 		],
 	],
+	'pagelemon.dev' => [
+		'suffix' => 'pagelemon.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Page Lemon : https://pagelemon.com',
+			'Submitted by Aporia Research Ltd <hi@pagelemon.com>',
+		],
+	],
 	'pgfog.com' => [
 		'suffix' => 'pgfog.com',
 		'type' => 'PRIVATE',
