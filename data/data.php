@@ -52066,6 +52066,14 @@ return [
 			'Submitted by Contentful Developer Experience Team <prd-ecosystem-dx@contentful.com>',
 		],
 	],
+	'prod.enter.pro' => [
+		'suffix' => 'prod.enter.pro',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Converge AI Pte. Ltd. : https://converge.ai',
+			'Submitted by Tyler <support@enter.pro>',
+		],
+	],
 	'convex.app' => [
 		'suffix' => 'convex.app',
 		'type' => 'PRIVATE',
@@ -56452,6 +56460,20 @@ return [
 		'comments' => [
 		],
 	],
+	'fastedge.app' => [
+		'suffix' => 'fastedge.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Gcore : https://gcore.com/',
+			'Submitted by Maryia Miskevich <fastedge@gcore.com>',
+		],
+	],
+	'gcorecdn.com' => [
+		'suffix' => 'gcorecdn.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'campaign.gov.uk' => [
 		'suffix' => 'campaign.gov.uk',
 		'type' => 'PRIVATE',
@@ -59125,6 +59147,14 @@ return [
 		'comments' => [
 		],
 	],
+	'kliv.site' => [
+		'suffix' => 'kliv.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Kliv : https://kliv.dev',
+			'Submitted by Anders Olsson <security@kliv.dev>',
+		],
+	],
 	'koobin.events' => [
 		'suffix' => 'koobin.events',
 		'type' => 'PRIVATE',
@@ -59836,6 +59866,20 @@ return [
 		'comments' => [
 			'Mail.Ru Group : https://hb.cldmail.ru',
 			'Submitted by Ilya Zaretskiy <zaretskiy@corp.mail.ru>',
+		],
+	],
+	'mailerpage.io' => [
+		'suffix' => 'mailerpage.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MailerLite : https://www.mailerlite.com',
+			'Submitted by Bob Gordon <public-suffix-list@mailerlite.com>',
+		],
+	],
+	'subscribepage.io' => [
+		'suffix' => 'subscribepage.io',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'matlab.cloud' => [
@@ -61364,6 +61408,14 @@ return [
 		'comments' => [
 			'Ninjaneer Media : https://ninjaneer.au',
 			'Submitted by the Ninjaneer Media team <admin@ninjaneer.au>',
+		],
+	],
+	'nippy.site' => [
+		'suffix' => 'nippy.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Nippy : https://nippy.host/',
+			'Submitted by Nippy Support <support@nippy.host>',
 		],
 	],
 	'mmafan.biz' => [
@@ -64822,6 +64874,14 @@ return [
 			'Submitted by Solana Name Service <contact@sns.id>',
 		],
 	],
+	'solidres.page' => [
+		'suffix' => 'solidres.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Solid Labs : https://www.solidres.com/',
+			'Submitted by Solid Labs <contact@solidres.com>',
+		],
+	],
 	'playstation-cloud.com' => [
 		'suffix' => 'playstation-cloud.com',
 		'type' => 'PRIVATE',
@@ -65960,6 +66020,14 @@ return [
 			'Submitted by Triton Data Center staff <tickets@tritondatacenter.com>',
 		],
 	],
+	'*.2na.am' => [
+		'suffix' => '*.2na.am',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tuna : https://tuna.am/',
+			'Submitted by Tuna Support <support@tuna.am>',
+		],
+	],
 	'tunnelmole.net' => [
 		'suffix' => 'tunnelmole.net',
 		'type' => 'PRIVATE',
@@ -66040,6 +66108,14 @@ return [
 		'comments' => [
 			'Umso Software Inc. : https://www.umso.com',
 			'Submitted by Alexis Taylor <security@umso.com>',
+		],
+	],
+	'uncld.dev' => [
+		'suffix' => 'uncld.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Uncloud : https://uncloud.run',
+			'Submitted by Pasha Sviderski <support@uncloud.run>',
 		],
 	],
 	'unison-services.cloud' => [
