@@ -44760,6 +44760,14 @@ return [
 			'Submitted by Gavin Brown <gavin.brown@centralnic.com>',
 		],
 	],
+	'agental.site' => [
+		'suffix' => 'agental.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'agental : https://agental.io',
+			'Submitted by agental <squad@agental.io>',
+		],
+	],
 	'*.auiusercontent.com' => [
 		'suffix' => '*.auiusercontent.com',
 		'type' => 'PRIVATE',
@@ -44796,6 +44804,14 @@ return [
 		'suffix' => '*.aivencloud.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'aiwebinfra.app' => [
+		'suffix' => 'aiwebinfra.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AiWebInfra : https://aiwebinfra.com',
+			'Submitted by AiWebInfra <support@aiwebinfra.com>',
 		],
 	],
 	'akadns.net' => [
@@ -59334,6 +59350,14 @@ return [
 			'Abuse reports to <registry@kv-gmbh.de>',
 		],
 	],
+	'lambforge.app' => [
+		'suffix' => 'lambforge.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Lambforge : https://lambforge.com',
+			'Submitted by Kristiyan Tachev <security@lambforge.com>',
+		],
+	],
 	'shiptoday.app' => [
 		'suffix' => 'shiptoday.app',
 		'type' => 'PRIVATE',
@@ -62458,7 +62482,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Omnibond Systems, LLC. : https://www.omnibond.com',
-			'Submitted by Cole Estep <cole@omnibond.com>',
+			'Submitted by Omnibond Support <support@omnibond.com>',
+		],
+	],
+	'eureka.zone' => [
+		'suffix' => 'eureka.zone',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'omniwe.site' => [
@@ -62931,6 +62961,14 @@ return [
 		'comments' => [
 			'Perplexity AI : https://www.perplexity.ai/',
 			'Submitted by Alec Xiang <security@perplexity.ai>',
+		],
+	],
+	'phronusercontent.com' => [
+		'suffix' => 'phronusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Phron : https://phron.net',
+			'Submitted by Phron Security <security@phron.net>',
 		],
 	],
 	'forgeblocks.com' => [
@@ -63573,6 +63611,14 @@ return [
 		'suffix' => 'reliantpreview.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'relumesite.ai' => [
+		'suffix' => 'relumesite.ai',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Relume : https://www.relume.ai/',
+			'Submitted by Relume Security Team <security@relume.ai>',
 		],
 	],
 	'onrender.com' => [
@@ -65076,6 +65122,14 @@ return [
 			'Submitted by Ian Streeter <ian@snowplowanalytics.com>',
 		],
 	],
+	'softr.app' => [
+		'suffix' => 'softr.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Softr : https://www.softr.io/',
+			'Submitted by Softr Support <support@softr.io>',
+		],
+	],
 	'mafelo.net' => [
 		'suffix' => 'mafelo.net',
 		'type' => 'PRIVATE',
@@ -65202,6 +65256,14 @@ return [
 		'comments' => [
 			'SpeedPartner GmbH : https://www.speedpartner.de/',
 			'Submitted by Stefan Neufeind <info@speedpartner.de>',
+		],
+	],
+	'spheron.live' => [
+		'suffix' => 'spheron.live',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Spheron : https://www.spheron.ai',
+			'Submitted by Spheron Team <info@spheron.ai>',
 		],
 	],
 	'myspreadshop.at' => [
@@ -65413,6 +65475,14 @@ return [
 		'suffix' => 'novecore.site',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'staticrun.app' => [
+		'suffix' => 'staticrun.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Static.run : https://static.run',
+			'Submitted by Static.run <security@static.run>',
 		],
 	],
 	'statichost.page' => [
@@ -66957,6 +67027,26 @@ return [
 	],
 	'half.host' => [
 		'suffix' => 'half.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xport.free' => [
+		'suffix' => 'xport.free',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'xPort : https://xport.dev',
+			'Submitted by Sascha Klein <security@xport.dev>',
+		],
+	],
+	'xport.host' => [
+		'suffix' => 'xport.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xport.sh' => [
+		'suffix' => 'xport.sh',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
