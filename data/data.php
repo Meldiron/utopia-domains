@@ -65994,6 +65994,14 @@ return [
 			'Submitted by Rob Picard <security@goteleport.com>',
 		],
 	],
+	'tnas.online' => [
+		'suffix' => 'tnas.online',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'TerraMaster : https://www.terra-master.com/',
+			'Submitted by TerraMaster Team <psl@terra-master.com>',
+		],
+	],
 	'terramind.io' => [
 		'suffix' => 'terramind.io',
 		'type' => 'PRIVATE',
